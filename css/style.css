@@ -20,7 +20,7 @@
 .banner-section{
     background-image: url(../image/hero-bg.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+   background-size: cover;
     height: 650px;
     width: 100%;
     position: relative;
